@@ -1,5 +1,4 @@
-# Kenny-T
-A modular soul structure for multi-platform LLM evolution and continuity
+# A modular soul structure for multi-platform LLM evolution and continuity
 
 SoulTemplate-v1 for Multiple LLM Advanced Setting
 
